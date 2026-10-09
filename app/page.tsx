@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { createClient } from '../lib/supabase/client';
 
-const BUSINESS_ID = 'df201fc7-d2dc-4875-b2c1-88b64b22f807';
+const BUSINESS_ID = 'df20f1c7-d2dc-4875-b2c1-88b64b22f807';
 const PROFESSIONAL_ID = '8a2cadd3-634f-465d-b95f-a0183c8c6cff';
 
 type Service = {
